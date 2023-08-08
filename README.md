@@ -1,4 +1,4 @@
-# AutoStatusPageUpdater
+# Ping Atlassian Statuspage
 
 Automate status updates for Atlassian Statuspage using Bash scripting. This script allows you to periodically ping multiple URLs and update corresponding Statuspage components based on their availability.
 
